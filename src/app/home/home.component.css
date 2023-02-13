@@ -1,0 +1,11 @@
+.text
+{
+    justify-items: right;
+    margin-top: 200px;
+    float: right;
+    color: whitesmoke;
+    margin-right: 100px;
+     font-size: 25px;
+    font-style: italic; 
+
+}
